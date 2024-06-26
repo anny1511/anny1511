@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil
 
-<!--
-**anny1511/anny1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é anny;
 
-Here are some ideas to get you started:
+- estou estudando na alura;
+- estou me desenvouvendo linguagem javascript;
+- utilizo esse espaço para minha organização e compartilhamento dos meus projeto desenvouvidos
+  ❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ###  Você pode entrarem contato comigo 🥰
+
+  0001105933945sp@al.educacao.sp.gov.br
+  
+  ![](https://media1.tenor.com/m/3d87UtCwBD4AAAAC/saturday-happy-weekend.gif)
+  
